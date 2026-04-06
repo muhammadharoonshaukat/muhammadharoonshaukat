@@ -4,7 +4,7 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 
 ### 💼 What I Do
 - Design and develop **interactive dashboards** for business intelligence and decision-making  
-- Perform **data analysis, statistical modeling, and financial analysis**  
+- Perform **data analysis, statistical modeling, and Business & financial analysis**  
 - Build **machine learning models** (supervised & unsupervised)  
 - Translate data into actionable insights for business growth  
 
@@ -21,10 +21,11 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 - **SQL:** PostgreSQL (data querying, transformation, optimization)  
 
 #### 📈 Core Expertise
-- Statistical Analysis & Hypothesis Testing  
+- Statistical Analysis (Hypothesis Testing, Multivariate Analysis etc.)
+- Spatiotemporal Analysis (Geostatistical Models)
 - Machine Learning (Supervised & Unsupervised)  
 - Exploratory Data Analysis (EDA)  
-- Data Cleaning & Feature Engineering  
+- Data Cleaning, Processing & Feature Engineering  
 - Business & Financial Analytics  
 
 ### 📊 Key Focus Areas

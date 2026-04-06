@@ -15,7 +15,7 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 - **Data Visualization:** Power BI  
 - **Core Expertise:**  
   - Statistical Analysis & Modeling  
-  - Machine Learning  
+  - Machine Learning Modeling
   - Data Cleaning & Preprocessing  
   - Exploratory Data Analysis (EDA)  
 
@@ -24,4 +24,4 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 - Financial Modeling & Forecasting  
 - Business Intelligence  
 - Machine Learning Applications 
-- Statistical Modelling 
+- Statistical Modeling 

@@ -21,7 +21,7 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 - **SQL:** PostgreSQL (data querying, transformation, optimization)  
 
 #### 📈 Core Expertise
-- Statistical Analysis (Hypothesis Testing, Multivariate Analysis etc.)
+- Statistical Analysis (Hypothesis Testing, Regression & Multivariate Analysis etc.)
 - Spatiotemporal Analysis (Geostatistical Models)
 - Machine Learning (Supervised & Unsupervised)  
 - Exploratory Data Analysis (EDA)  

@@ -28,12 +28,15 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 - **SQL:** PostgreSQL (data querying, transformation, optimization)  
 
 #### 📈 Core Expertise
+- Data Cleaning, Processing (ETL) & Feature Engineering
+- Exploratory Data Analysis (EDA)   
 - Statistical Analysis (Hypothesis Testing, Regression & Multivariate Analysis etc.)
+- Time Series Modeling & Forecasting
 - Spatiotemporal Analysis (Geostatistical Models)
-- Machine Learning (Supervised & Unsupervised)  
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning, Processing & Feature Engineering  
-- Business & Financial Analytics  
+- Machine Learning (Supervised & Unsupervised)
+- Predictive Analytics
+- Business & Financial Analytics
+- Environmental Data Moedling
 
 ### 📊 Key Focus Areas
 - Business Intelligence & Dashboarding  

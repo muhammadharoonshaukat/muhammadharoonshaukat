@@ -12,7 +12,7 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 ### 💼 What I Do
 - Design and develop **interactive dashboards** for business intelligence and decision-making  
 - Perform **data analysis, statistical modeling, and Business & financial analysis**  
-- Build **machine learning models** (supervised & unsupervised)  
+- Build ** hybrid machine learning models** (supervised & unsupervised)  
 - Translate data into actionable insights for business growth  
 
 ### 🛠️ Technical Skills

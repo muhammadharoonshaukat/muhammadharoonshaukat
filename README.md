@@ -1,27 +1,34 @@
-## Hi there 👋
 ## 👋 Hi, I'm Muhammad Haroon Shaukat
 
-I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a strong foundation in statistical theory and practical data applications. I specialize in transforming complex data into actionable insights that drive strategic decision-making.
+I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a strong foundation in statistical theory and applied analytics. I specialize in transforming complex datasets into meaningful insights, interactive dashboards, and scalable data solutions.
 
 ### 💼 What I Do
-- Analyze and interpret data to uncover trends and business opportunities  
-- Build and deploy machine learning models (supervised & unsupervised)  
-- Develop data-driven solutions for business and financial analysis  
-- Create interactive dashboards and reports for stakeholders  
+- Design and develop **interactive dashboards** for business intelligence and decision-making  
+- Perform **data analysis, statistical modeling, and financial analysis**  
+- Build **machine learning models** (supervised & unsupervised)  
+- Translate data into actionable insights for business growth  
 
 ### 🛠️ Technical Skills
-- **Programming:** Python, R  
-- **Databases:** SQL (PostgreSQL)  
-- **Data Visualization:** Power BI  
-- **Core Expertise:**  
-  - Statistical Analysis & Modeling  
-  - Machine Learning Modeling
-  - Data Cleaning & Preprocessing  
-  - Exploratory Data Analysis (EDA)  
 
-### 📊 Interests
-- Data Science & Advanced Analytics  
-- Financial Modeling & Forecasting  
-- Business Intelligence  
-- Machine Learning Applications 
-- Statistical Modeling 
+#### 📊 Data Analysis & Visualization
+- **Dashboard Development:** Power BI (DAX, data modeling, reporting)  
+- **R Visualization:** ggplot2, dplyr, tidyverse  
+- **Python Visualization:** matplotlib, seaborn, plotly  
+
+#### 💻 Programming & Tools
+- **Python:** pandas, numpy, scikit-learn  
+- **R:** statistical modeling, data analysis  
+- **SQL:** PostgreSQL (data querying, transformation, optimization)  
+
+#### 📈 Core Expertise
+- Statistical Analysis & Hypothesis Testing  
+- Machine Learning (Supervised & Unsupervised)  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Feature Engineering  
+- Business & Financial Analytics  
+
+### 📊 Key Focus Areas
+- Business Intelligence & Dashboarding  
+- Financial Analysis & Forecasting  
+- Data-Driven Decision Making  
+- Predictive Modeling 

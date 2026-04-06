@@ -1,16 +1,27 @@
 ## Hi there 👋
+## 👋 Hi, I'm Muhammad Haroon Shaukat
 
-<!--
-**muhammadharoonshaukat/muhammadharoonshaukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a strong foundation in statistical theory and practical data applications. I specialize in transforming complex data into actionable insights that drive strategic decision-making.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- Analyze and interpret data to uncover trends and business opportunities  
+- Build and deploy machine learning models (supervised & unsupervised)  
+- Develop data-driven solutions for business and financial analysis  
+- Create interactive dashboards and reports for stakeholders  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Programming:** Python, R  
+- **Databases:** SQL (PostgreSQL)  
+- **Data Visualization:** Power BI  
+- **Core Expertise:**  
+  - Statistical Analysis & Modeling  
+  - Machine Learning  
+  - Data Cleaning & Preprocessing  
+  - Exploratory Data Analysis (EDA)  
+
+### 📊 Interests
+- Data Science & Advanced Analytics  
+- Financial Modeling & Forecasting  
+- Business Intelligence  
+- Machine Learning Applications 
+- Statistical Modelling 

@@ -4,10 +4,10 @@ I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a st
 
 ## 📂 Projects & Portfolio
 ### 🔹 Financial Risk Analysis (Financial Risk, Credit Risk & Fraud Analysis) 
-- 🔗 GitHub Repo: https://github.com/muhammadharoonshaukat/financial-risk-analysis.git
+- 🔗 Github Repo: https://github.com/muhammadharoonshaukat/financial-risk-analysis.git
   
 ### 🔹 Airport Traffic Analytics (Passenger & Cargo Insights) 
-- 🔗 GitHub Repo: https://github.com/muhammadharoonshaukat/airport_traffic_analytics-.git
+- 🔗 Github Repo: https://github.com/muhammadharoonshaukat/airport_traffic_analytics-.git
 
 ### 💼 What I Do
 - Design and develop **interactive dashboards** for business intelligence and decision-making  

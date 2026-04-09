@@ -3,6 +3,9 @@
 I’m a Data Analyst, Data Scientist, and Business & Financial Analyst with a strong foundation in statistical theory and applied analytics. I specialize in transforming complex datasets into meaningful insights, interactive dashboards, and scalable data solutions.
 
 ## 📂 Projects & Portfolio
+### 🔹Sales, Supply Chain & Forecasting Analytics
+- 🔗 Github Repo: https://github.com/muhammadharoonshaukat/sales_supply_chain_analytics.git
+
 ### 🔹 Financial Risk Analysis (Financial Risk, Credit Risk & Fraud Analysis) 
 - 🔗 Github Repo: https://github.com/muhammadharoonshaukat/financial-risk-analysis.git
   
